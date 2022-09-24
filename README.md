@@ -19,7 +19,7 @@ The contracts deployed on Optimism.
     0xc3864f98f2a61A7cAeb95b039D031b4E2f55e0e9
 
     OpenX Maker:
-    0x7DBB7ebD2Aeb78a4E2D7D7b56bFbf14FD0089A6a
+    0x1D5a5061fA9bd120576aA8062856BF161C94089b
 
     Core Treasury Contract:
 	0xFDAEc4bf7A1Bae950A77dF549A18d6013409cc21
