@@ -252,7 +252,7 @@ contract TokenPaymentManager is BoringOwnable {
         uint256 amount = getPaymentAmount(block.timestamp);
         uint256 bal = Token.balanceOf(address(this));
         lastDistributionTimestamp = block.timestamp;
-        if(amount < bal){
+        if(amount > bal){
             amount = bal;
         }
         Token.transfer(owner, amount);
