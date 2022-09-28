@@ -22,12 +22,23 @@ The contracts deployed on Optimism.
     0x1D5a5061fA9bd120576aA8062856BF161C94089b
 
     Core Treasury Contract:
-	0xFDAEc4bf7A1Bae950A77dF549A18d6013409cc21
+    0x24d547055a881B37096A21cC2F01cC6DE36988d3
 
-	Dev Treasury Contract
-	0x950cF66BEf352325D0e4ddcf3f32deFBc24605a0
+    Dev Treasury Contract
+    0xdcdA0f3A9ffAFC2f9DE4380f62733B16C6FF51b6
 
-	LP Core Treasury
-	0x59D421C98240edB1F96E9007A6ccBe5aca00dA65
+    LP Core Treasury
+    0x90a8E9B9DffB04c3742787085B343e1FB8a71ED9
+
+
+
+    Old Core Treasury Contract:
+    0xFDAEc4bf7A1Bae950A77dF549A18d6013409cc21
+
+    Old Dev Treasury Contract
+    0x950cF66BEf352325D0e4ddcf3f32deFBc24605a0
+
+    Old LP Core Treasury
+    0x59D421C98240edB1F96E9007A6ccBe5aca00dA65
 
 
