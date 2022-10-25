@@ -32,6 +32,8 @@ The contracts deployed on Optimism.
 
 
 
+
+
     Old Core Treasury Contract:
     0xFDAEc4bf7A1Bae950A77dF549A18d6013409cc21
 
@@ -42,3 +44,13 @@ The contracts deployed on Optimism.
     0x59D421C98240edB1F96E9007A6ccBe5aca00dA65
 
 
+#Tests
+
+npx hardhat test test/nameoftest.js
+
+#Deploy local setup
+
+in a second teminal: npx hardhat node
+
+in main terminal
+npx hardhat run scripts/oneshot.js
